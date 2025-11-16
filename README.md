@@ -1,2 +1,2 @@
-# Ableton Live Collaborative Workflow
+# Ableton Live Workflow
 Coming soon-ish!
