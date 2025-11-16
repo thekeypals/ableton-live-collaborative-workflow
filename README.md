@@ -1,2 +1,2 @@
-# ableton-live-collaborative-workflow
-Collaborative workflow guide for the collective's Ableton Live projects.
+# Ableton Live Collaborative Workflow
+Coming soon-ish!
